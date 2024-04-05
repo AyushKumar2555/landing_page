@@ -1,2 +1,2 @@
-# landing_page
- I developed landing page using HTML and CSS
+# Pepsi landing_page
+ I developed pepesi landing page using HTML and CSS
